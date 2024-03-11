@@ -2,6 +2,10 @@
 def divide(x,y):
     return x/y
 
+def multiply(x, y):
+    return x * y
+
+
 #여기 위에다가 함수 추가하세요
 
 def calculator():
@@ -29,4 +33,4 @@ def calculator():
         print("잘못된 입력입니다.")
 
 calculator()
->>>>>>> 0fc8beb58816943a579311769bb7981676a0434e
+
