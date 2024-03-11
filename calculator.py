@@ -5,14 +5,27 @@ def divide(x,y):
 def multiply(x, y):
     return x * y
 
-def plus(x,y):
+def add(x,y):
     return x+y
 
+<<<<<<< HEAD
 def subtract(x, y):
     return x - y
 
 
 #여기 위에다가 함수 추가하세요
+=======
+
+#여기 위에다가 함수 추가하세요
+
+
+num1 = float(input("첫 번째 숫자를 입력하세요: "))
+
+num2 = float(input("두 번째 숫자를 입력하세요: "))
+
+result = num1 - num2
+print("두 숫자의 차는:", result)
+>>>>>>> bfaaf7165ef186453bc6c19952041c6500e6b966
 
 def calculator():
     print("간단한 계산기")
