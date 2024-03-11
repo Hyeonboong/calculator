@@ -12,12 +12,12 @@ def plus(x,y):
 #여기 위에다가 함수 추가하세요
 
 
-def subtract(x, y):
-    return x - y
+num1 = float(input("첫 번째 숫자를 입력하세요: "))
 
-# 사용 예제
-result = subtract(5, 3)
-print(result)  # 출력: 2
+num2 = float(input("두 번째 숫자를 입력하세요: "))
+
+result = num1 - num2
+print("두 숫자의 차는:", result)
 
 def calculator():
     print("간단한 계산기")
