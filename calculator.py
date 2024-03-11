@@ -5,6 +5,9 @@ def divide(x,y):
 def multiply(x, y):
     return x * y
 
+def plus(x,y):
+    return x+y
+
 
 #여기 위에다가 함수 추가하세요
 
