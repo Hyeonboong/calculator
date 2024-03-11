@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 def divide(x,y):
     return x/y
-=======
+
 #여기 위에다가 함수 추가하세요
 
 def calculator():
