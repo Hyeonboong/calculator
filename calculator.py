@@ -8,16 +8,11 @@ def multiply(x, y):
 def plus(x,y):
     return x+y
 
-
-#여기 위에다가 함수 추가하세요
-
-
 def subtract(x, y):
     return x - y
 
-# 사용 예제
-result = subtract(5, 3)
-print(result)  # 출력: 2
+
+#여기 위에다가 함수 추가하세요
 
 def calculator():
     print("간단한 계산기")
